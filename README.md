@@ -8,7 +8,7 @@
 <h1> Description </h1>
 <p> This project is about creating a forecasting capability for the various line of business. </p>
 <p> We have also created Headcount modeling. </p>
-<P> To run the python code go to the following <a href="Python Code"> Python_forecasting code</a> folder with the instruction: <a href="Python Code/Instruction"> here</a>
+<P> To run the python code go to the following <a href="Python Code"> Python_forecasting code</a> folder with the instruction: <a href="Python Code/Instruction.md"> here</a>
 
 # Power BI
   The PowerBi file is located <a href="PowerBI/Final_model.pbix">here </a>
