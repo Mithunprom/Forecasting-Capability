@@ -1,0 +1,16 @@
+# This file may be used to create an environment using:
+conda create -n py_mithun python=3.8 anaconda
+source activate py_mithun
+
+conda install -c anaconda ephem
+conda install pystan
+pip install fbprophet
+
+pip install plotly
+conda install -c anaconda ipykernel
+python -m ipykernel install --user --name=py_mithun
+conda install tensorflow
+
+
+Update conda version:
+pip install --user --upgrade --force-reinstall --no-cache fbprophet
